@@ -32,8 +32,7 @@ CS undergrad at Galgotias University (2026) who builds on both sides of engineer
 ## 📊 GitHub stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SiddhantisDead&show_icons=true&theme=tokyonight&hide_border=true" alt="SiddhantisDead's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantisDead&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-stats-nine-navy.vercel.app/api?username=SiddhantisDead&show_icons=true&theme=tokyonight&hide_border=true" alt="SiddhantisDead's GitHub stats" />
 </p>
 
 <p align="center">
